@@ -1,1 +1,1 @@
-# RandomGenerator
+# STIX Generator
